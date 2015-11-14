@@ -8,7 +8,7 @@
 
 import  requests, re, sys
 import  colorama
-from    colorama        import 
+from    colorama        import *
 from    urllib.parse    import urlparse
 from    time            import time as timer
 from    functools       import partial
