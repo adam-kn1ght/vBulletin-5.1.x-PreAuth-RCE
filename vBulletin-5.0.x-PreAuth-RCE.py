@@ -4,7 +4,7 @@
 # Tested on                 : Windows 8.1 / Ubuntu 14.04
 # CVE                       : CVE-2015-7808
 # Blog Post                 : http://mukarramkhalid.com/exploit-vbulletin-5-1-x-preauth-remote-code-execution/
-# Url list                  : http://makman.tk/vb/urls.txt
+# Url list                  : http:// makman.tk /vb/urls.txt
 
 import  requests, re, sys
 import  colorama
